@@ -1,5 +1,5 @@
 public class ClassA{
- public void meth(){
+ public void meth("hellow bob"){
     System.out.println();
  }
 
